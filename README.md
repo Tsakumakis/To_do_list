@@ -12,3 +12,6 @@ Afterwards you can view the tasks on the main window
 There is a delete button next to the activity where if you press the button you can delete the activity
 The refresh button is there just in case something does not work correctly
 (soon)The save button where you can export your file and have it on other devices as well.
+
+## app.py
+this is a demo of the app
