@@ -3,7 +3,7 @@
 This is my first ever project that i made for myself, its really half baked but im proud of what it has become.
 
 # Setup
-
+just click the exe file
 
 ## How to use
 
